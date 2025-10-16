@@ -1,18 +1,16 @@
 👋 Hi, I'm Kasturi Dash
 
 🎓 Biomedical Informatics Graduate | Aspiring AI & Data Science Professional
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Biomedical+Informatics+Graduate;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Biomedical+Informatics+Graduate;Data+Science+and+AI+Enthusiast;Exploring+Generative+AI+and+RAG;Passionate+about+Data-Driven+Healthcare)](https://git.io/typing-svg)
 
 
 🧠 About Me
-
 I’m passionate about leveraging artificial intelligence and data-driven methods to solve real-world challenges — especially in healthcare, biomedical research, and beyond.
 My journey started with a strong foundation in biomedical data analysis during my Master’s at Queen’s University, and now I’m expanding into machine learning, generative AI, and retrieval-augmented generation (RAG) systems.
 
 I’m currently exploring how AI can augment human expertise — whether in clinical decision support, intelligent data retrieval, or predictive analytics.
 
 ### 🧰 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -31,35 +29,33 @@ I’m currently exploring how AI can augment human expertise — whether in clin
 
 
 
-🔬 Current Focus
+##🔬 Current Focus
 
 🚀 Building foundational AI projects:
-
 Machine learning models for structured data (classification, regression, etc.)
-
 Deep learning for pattern recognition (CNNs, NLP, multimodal tasks)
-
 Generative AI applications (LLMs, embeddings, vector search, RAG)
 
 🧩 Expanding technical skills:
-
 Python, PyTorch, Scikit-learn, Hugging Face
-
 LangChain, OpenAI API, FAISS, Chroma
-
 SQL, Pandas, NumPy, and data visualization (Matplotlib, Seaborn, Plotly)
 
 
 💬 Let's Connect
-
 📫 Email: kastdash@gmail.com
-
 💼 LinkedIn: linkedin.com/in/kastdash
 
-
 ⚡ Fun Fact
-
 I’ve traveled across multiple countries — and I love exploring how culture, language, and technology intersect in the global AI landscape. 🌍
+
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kastdash&show_icons=true&theme=radical" alt="Kasturi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastdash&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <!---
 kastdash/kastdash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
