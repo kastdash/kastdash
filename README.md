@@ -41,7 +41,7 @@ LangChain, OpenAI API, FAISS, Chroma
 SQL, Pandas, NumPy, and data visualization (Matplotlib, Seaborn, Plotly)
 
 
-💬 Let's Connect
+### 💬 Let's Connect
 
 Email: kastdash@gmail.com
 
