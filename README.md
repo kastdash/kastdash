@@ -28,7 +28,7 @@ I’m currently exploring how AI can augment human expertise — whether in clin
 
 
 
-##🔬 Current Focus
+## Current Focus
 
 🚀 Building foundational AI projects:
 Machine learning models for structured data (classification, regression, etc.)
@@ -42,7 +42,9 @@ SQL, Pandas, NumPy, and data visualization (Matplotlib, Seaborn, Plotly)
 
 
 💬 Let's Connect
+
 Email: kastdash@gmail.com
+
 LinkedIn: linkedin.com/in/kastdash
 
 ⚡ Fun Fact
