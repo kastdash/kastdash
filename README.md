@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Biomedical+Informatics+Graduate;Data+Science+and+AI+Enthusiast;Exploring+Generative+AI+and+RAG;Passionate+about+Data-Driven+Healthcare)](https://git.io/typing-svg)
 
 
-🧠 About Me
+### About Me
 I’m passionate about leveraging artificial intelligence and data-driven methods to solve real-world challenges — especially in healthcare, biomedical research, and beyond. My journey began at the University of Waterloo, where I earned my Honours Bachelor’s degree in Psychology Science and built a strong foundation in data analysis and human-centered research. I later expanded this foundation through a Master’s in Biomedical Informatics at Queen’s University, which strengthened my analytical and computational skills and further shaped my focus on machine learning, generative AI, and retrieval-augmented generation (RAG) systems as tools to advance scientific and clinical innovation.
 
 I’m currently exploring how AI can augment human expertise — whether in clinical decision support, intelligent data retrieval, or predictive analytics.
