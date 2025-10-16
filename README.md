@@ -4,12 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Biomedical+Informatics+Graduate;Data+Science+and+AI+Enthusiast;Exploring+Generative+AI+and+RAG;Passionate+about+Data-Driven+Healthcare)](https://git.io/typing-svg)
 
 
-### About Me
+# About Me
 I’m passionate about leveraging artificial intelligence and data-driven methods to solve real-world challenges — especially in healthcare, biomedical research, and beyond. My journey began at the University of Waterloo, where I earned my Honours Bachelor’s degree in Psychology Science and built a strong foundation in data analysis and human-centered research. I later expanded this foundation through a Master’s in Biomedical Informatics at Queen’s University, which strengthened my analytical and computational skills and further shaped my focus on machine learning, generative AI, and retrieval-augmented generation (RAG) systems as tools to advance scientific and clinical innovation.
 
 I’m currently exploring how AI can augment human expertise — whether in clinical decision support, intelligent data retrieval, or predictive analytics.
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -28,14 +28,14 @@ I’m currently exploring how AI can augment human expertise — whether in clin
 
 
 
-## Current Focus
+# Current Focus
 
-# Building foundational AI projects:
+## Building foundational AI projects:
 Machine learning models for structured data (classification, regression, etc.)
 Deep learning for pattern recognition (CNNs, NLP, multimodal tasks)
 Generative AI applications (LLMs, embeddings, vector search, RAG)
 
-# Expanding technical skills:
+## Expanding technical skills:
 Python, PyTorch, Scikit-learn, Hugging Face
 LangChain, OpenAI API, FAISS, Chroma
 SQL, Pandas, NumPy, and data visualization (Matplotlib, Seaborn, Plotly)
