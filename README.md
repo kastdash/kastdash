@@ -30,12 +30,12 @@ I’m currently exploring how AI can augment human expertise — whether in clin
 
 ## Current Focus
 
-🚀 Building foundational AI projects:
+# Building foundational AI projects:
 Machine learning models for structured data (classification, regression, etc.)
 Deep learning for pattern recognition (CNNs, NLP, multimodal tasks)
 Generative AI applications (LLMs, embeddings, vector search, RAG)
 
-🧩 Expanding technical skills:
+# Expanding technical skills:
 Python, PyTorch, Scikit-learn, Hugging Face
 LangChain, OpenAI API, FAISS, Chroma
 SQL, Pandas, NumPy, and data visualization (Matplotlib, Seaborn, Plotly)
