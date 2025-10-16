@@ -43,8 +43,8 @@ SQL, Pandas, NumPy, and data visualization (Matplotlib, Seaborn, Plotly)
 
 
 💬 Let's Connect
-📫 Email: kastdash@gmail.com
-💼 LinkedIn: linkedin.com/in/kastdash
+Email: kastdash@gmail.com
+LinkedIn: linkedin.com/in/kastdash
 
 ⚡ Fun Fact
 I’ve traveled across multiple countries — and I love exploring how culture, language, and technology intersect in the global AI landscape. 🌍
